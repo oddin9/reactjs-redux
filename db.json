@@ -1,0 +1,45 @@
+{
+    "users" : [
+        {
+            "id": 1,
+            "nama": "ardhi",
+            "alamat": "cimahi"
+        }, {
+            "id": 2,
+            "nama": "heru",
+            "alamat": "cimahi"
+        }, {
+            "id": 3,
+            "nama": "danang",
+            "alamat": "cimahi"
+        }, {
+            "id": 4,
+            "nama": "rahmat",
+            "alamat": "cimahi"
+        }, {
+            "id": 5,
+            "nama": "yusuf",
+            "alamat": "cimahi"
+        }, {
+            "id": 6,
+            "nama": "ardhi",
+            "alamat": "cimahi"
+        }, {
+            "id": 7,
+            "nama": "heru",
+            "alamat": "cimahi"
+        }, {
+            "id": 8,
+            "nama": "danang",
+            "alamat": "cimahi"
+        }, {
+            "id": 9,
+            "nama": "rahmat",
+            "alamat": "cimahi"
+        }, {
+            "id": 10,
+            "nama": "yusuf",
+            "alamat": "cimahi"
+        }
+    ]
+}
